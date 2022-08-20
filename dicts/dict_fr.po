@@ -1,0 +1,1163 @@
+# 
+# Translators:
+# Pablo Luchiano, 2022
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Pablo Luchiano, 2022\n"
+"Language-Team: French (https://www.transifex.com/linxp2007/teams/148982/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"X-Language: en_US\n"
+
+msgid "128-bit"
+msgstr "128 bits"
+
+msgid "16-bit"
+msgstr "16 bits"
+
+msgid "32-bit"
+msgstr "32 bits"
+
+msgid "64-bit"
+msgstr "64 bits"
+
+msgid "8-bit"
+msgstr "8 bits"
+
+msgid "API key"
+msgstr ""
+
+msgid "About"
+msgstr "À propos"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Add alignment"
+msgstr "Ajouter un alignement"
+
+msgid "Add to context menu"
+msgstr "Ajouter au menu contextuel"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Address colon"
+msgstr ""
+
+msgid "Algorithm"
+msgstr "Algorithme"
+
+msgid "All"
+msgstr "Tout"
+
+msgid "All files"
+msgstr "Tout les fichiers"
+
+msgid "All types"
+msgstr "Tous les types"
+
+msgid "Allocation base"
+msgstr ""
+
+msgid "Allocation flags"
+msgstr ""
+
+msgid "Analyze"
+msgstr "Analyser"
+
+msgid "Animate"
+msgstr ""
+
+msgid "Appearance"
+msgstr "Apparence"
+
+msgid "Application"
+msgstr "Application"
+
+msgid "Architecture"
+msgstr "Architecture"
+
+msgid "Archive"
+msgstr "Archive"
+
+msgid "Archive record"
+msgstr "Historique de l'archive"
+
+msgid "Array"
+msgstr "Déployer"
+
+msgid "Attach"
+msgstr "Attacher"
+
+msgid "Automatic"
+msgstr "Automatique"
+
+msgid "Background"
+msgstr ""
+
+msgid "Base address"
+msgstr "Adresse de base"
+
+msgid "Begin"
+msgstr "Commencer"
+
+msgid "Bind"
+msgstr "Lier"
+
+msgid "Binding"
+msgstr "Obligatoire"
+
+msgid "Boot application"
+msgstr "Application de démarrage"
+
+msgid "Boot service driver"
+msgstr "Pilote de service de démarrage"
+
+msgid "Bound import"
+msgstr "Importation liée"
+
+msgid "Breakpoint"
+msgstr ""
+
+msgid "Breakpoints"
+msgstr "Points d'arrêt"
+
+msgid "Bugreports"
+msgstr "Rapports de bogues"
+
+msgid "Byte"
+msgstr "Octet"
+
+msgid "Bytes"
+msgstr "Octets"
+
+msgid "Bytes available"
+msgstr ""
+
+msgid "C Strings"
+msgstr ""
+
+msgid "CPU"
+msgstr "CPU"
+
+msgid "Calculate"
+msgstr "Calculer"
+
+msgid "Callbacks"
+msgstr "Rappels"
+
+msgid "Calls"
+msgstr "Appels"
+
+msgid "Callstack"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Cannot get PDB age"
+msgstr "Impossible d'obtenir l'âge PDB"
+
+msgid "Cannot get PDB name"
+msgstr "Impossible d'obtenir le nom PDB"
+
+msgid "Cannot load data from PDB"
+msgstr "Impossible de charger les données depuis PDB"
+
+msgid "Cannot load database"
+msgstr "Impossible de charger la base de données"
+
+msgid "Cannot load driver"
+msgstr ""
+
+msgid "Cannot load file"
+msgstr "Impossible de charger le fichier"
+
+msgid "Cannot load msdia library"
+msgstr "Impossible de charger la bibliothèque msdia"
+
+msgid "Cannot open file"
+msgstr "Ne peut pas ouvrir le fichier"
+
+msgid "Cannot open session"
+msgstr "Impossible d'ouvrir la session"
+
+msgid "Cannot read memory at address"
+msgstr "Impossible de lire la mémoire à l'adresse"
+
+msgid "Cannot save file"
+msgstr "Ne peut pas sauvegarder le fichier"
+
+msgid "Cannot set shortcut"
+msgstr "Ne peut pas créer le raccourci"
+
+msgid "Certificate"
+msgstr "Certificat"
+
+msgid "Check"
+msgstr "Vérifier"
+
+msgid "Check updates"
+msgstr "Vérifier les mises à jour"
+
+msgid "Clear"
+msgstr "Nettoyer"
+
+msgid "Clear result"
+msgstr "Nettoyer les résultats"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Code pages"
+msgstr ""
+
+msgid "Code section"
+msgstr "Section de code"
+
+msgid "Colors"
+msgstr ""
+
+msgid "Commands"
+msgstr "Commandes"
+
+msgid "Comment"
+msgstr "Commentaire"
+
+msgid "Compiler"
+msgstr "Compilateur"
+
+msgid "Console"
+msgstr "Console"
+
+msgid "Converter"
+msgstr "Convertisseur"
+
+msgid "Copy"
+msgstr "Copier"
+
+msgid "Copy as"
+msgstr "Copier en tant que"
+
+msgid "Count"
+msgstr "Compte"
+
+msgid "Create view model"
+msgstr "Créer un modèle visuel"
+
+msgid "Cryptor"
+msgstr "Crypteur"
+
+msgid "Cursor"
+msgstr "Curseur"
+
+msgid "Data"
+msgstr "Données"
+
+msgid "Data in code"
+msgstr "Données dans le code"
+
+msgid "Data inspector"
+msgstr ""
+
+msgid "Database"
+msgstr "Base de données"
+
+msgid "Date"
+msgstr ""
+
+msgid "Debug"
+msgstr "Déboguer"
+
+msgid "Debug data"
+msgstr "Données de débogage"
+
+msgid "Debugger"
+msgstr "Débogueur"
+
+msgid "Deep scan"
+msgstr "Analyse approfondie"
+
+msgid "Default"
+msgstr "Défaut"
+
+msgid "Delay import"
+msgstr "Retarder l'importation"
+
+msgid "Demangle"
+msgstr "Démêler"
+
+msgid "Dependencies"
+msgstr "Dépendances"
+
+msgid "Detach"
+msgstr "Détacher"
+
+msgid "Detect"
+msgstr ""
+
+msgid "Device"
+msgstr ""
+
+msgid "Device scan"
+msgstr "Scan d'appareils"
+
+msgid "Diagram"
+msgstr ""
+
+msgid "Directory"
+msgstr "Répertoire"
+
+msgid "Directory scan"
+msgstr "Analyse des répertoires"
+
+msgid "Disasm"
+msgstr "Désassembler"
+
+msgid "Document"
+msgstr "Document"
+
+msgid "Documents"
+msgstr "Documents"
+
+msgid "Donate"
+msgstr "Faire un don"
+
+msgid "Driver"
+msgstr "Conducteur"
+
+msgid "Dump"
+msgstr "Extraire"
+
+msgid "Dump to file"
+msgstr "Extraire vers un fichier"
+
+msgid "Edit"
+msgstr "Éditer"
+
+msgid "Elapsed"
+msgstr "Écoulé"
+
+msgid "Endianness"
+msgstr "Endianité"
+
+msgid "Entropy"
+msgstr "Entropie"
+
+msgid "Entry point"
+msgstr "Point d'entrée"
+
+msgid "Entry point section"
+msgstr "Section du point d'entrée"
+
+msgid "Error"
+msgstr "Erreur"
+
+msgid "Exceptions"
+msgstr "Exceptions"
+
+msgid "Exit"
+msgstr "Sortie"
+
+msgid "Export"
+msgstr "Exporter"
+
+msgid "Export File Name"
+msgstr "Nom du fichier d'exportation"
+
+msgid "Export type"
+msgstr "Type d'exportation"
+
+msgid "External references"
+msgstr "Références externes"
+
+msgid "File"
+msgstr "Fichier"
+
+msgid "File info"
+msgstr ""
+
+msgid "File name"
+msgstr "Nom de fichier"
+
+msgid "File offset"
+msgstr "Offset du fichier"
+
+msgid "File saved"
+msgstr "Fichier enregistré"
+
+msgid "File scan"
+msgstr "Analyse des fichiers"
+
+msgid "File type"
+msgstr "Type de fichier"
+
+msgid "Filename"
+msgstr "Nom du fichier"
+
+msgid "Files"
+msgstr "Des dossiers"
+
+msgid "Filter"
+msgstr "Filtre"
+
+msgid "Find"
+msgstr "Chercher"
+
+msgid "Find next"
+msgstr "Suivant"
+
+msgid "Fix offsets"
+msgstr "Correction des décalages"
+
+msgid "Fix types"
+msgstr "Types de correctifs"
+
+msgid "Flags"
+msgstr "Drapeaux"
+
+msgid "Folder"
+msgstr ""
+
+msgid "Follow in"
+msgstr ""
+
+msgid "Font"
+msgstr "Police de caractère"
+
+msgid "Form"
+msgstr "Formulaire"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Function"
+msgstr ""
+
+msgid "Functions"
+msgstr "Les fonctions"
+
+msgid "GB"
+msgstr "FR"
+
+msgid "Generic"
+msgstr "Générique"
+
+msgid "Get"
+msgstr ""
+
+msgid "Get element"
+msgstr "Obtenir l'élément"
+
+msgid "GiB"
+msgstr ""
+
+msgid "Go to"
+msgstr "Aller à"
+
+msgid "Go to address"
+msgstr "Aller à l'adresse"
+
+msgid "Grid"
+msgstr ""
+
+msgid "Handles"
+msgstr "Poignées"
+
+msgid "Hash"
+msgstr "Hash"
+
+msgid "Header"
+msgstr "En-tête"
+
+msgid "Help"
+msgstr "Aide"
+
+msgid "Heuristic"
+msgstr "Heuristique"
+
+msgid "Heuristic scan"
+msgstr "Analyse heuristique"
+
+msgid "Hex"
+msgstr "Hexadécimal"
+
+msgid "Hex signature"
+msgstr "Signature hexadécimale"
+
+msgid "Highlight"
+msgstr ""
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Images"
+msgstr "Images"
+
+msgid "Import"
+msgstr "Importer"
+
+msgid "Import hash"
+msgstr "Importer le hachage"
+
+msgid "Indirect symbols"
+msgstr "Symboles indirects"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Information"
+msgstr "Informations"
+
+msgid "Installer"
+msgstr "Installateur"
+
+msgid "Installer data"
+msgstr "Données de l'installateur"
+
+msgid "Interpreter"
+msgstr "Interprète"
+
+msgid "Invalid"
+msgstr "Invalide"
+
+msgid "Invalid opcode"
+msgstr "Opcode invalide"
+
+msgid "Invalid signature"
+msgstr ""
+
+msgid "Issuer"
+msgstr "Émetteur"
+
+msgid "It is not a valid file"
+msgstr "Fichier non valide"
+
+msgid "Joiner"
+msgstr "Joindre"
+
+msgid "Jumps"
+msgstr "Sauts"
+
+msgid "Keep size"
+msgstr ""
+
+msgid "Kernel mode"
+msgstr ""
+
+msgid "KiB"
+msgstr ""
+
+msgid "Label"
+msgstr "Étiquette"
+
+msgid "Labels"
+msgstr "Étiquettes"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "Lazy binding"
+msgstr "Reliure paresseuse"
+
+msgid "Length"
+msgstr "Longueur"
+
+msgid "Libraries"
+msgstr "Bibliothèques"
+
+msgid "Library"
+msgstr "Bibliothèque"
+
+msgid "Library name"
+msgstr "Nom de la bibliothèque"
+
+msgid "Linker"
+msgstr "Linker"
+
+msgid "Load config"
+msgstr "Charger la configuration"
+
+msgid "Local relocation"
+msgstr "Déménagement local"
+
+msgid "Log"
+msgstr "Journal"
+
+msgid "MB"
+msgstr "Mo"
+
+msgid "MainWindow"
+msgstr "Fenêtre principale"
+
+msgid "Manifest"
+msgstr "Manifeste"
+
+msgid "Match case"
+msgstr "Cas de correspondance"
+
+msgid "Maximum"
+msgstr "Maximum"
+
+msgid "Memory"
+msgstr "Mémoire"
+
+msgid "Memory map"
+msgstr "Carte de la mémoire"
+
+msgid "Memory scan"
+msgstr "Analyse de la mémoire"
+
+msgid "Metadata"
+msgstr "Métadonnées"
+
+msgid "Method"
+msgstr "Méthode"
+
+msgid "MiB"
+msgstr ""
+
+msgid "Mode"
+msgstr "Mode"
+
+msgid "Module"
+msgstr ""
+
+msgid "Modules"
+msgstr "Modules"
+
+msgid "More info"
+msgstr "Plus d'informations"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Next"
+msgstr ""
+
+msgid "No"
+msgstr "Non"
+
+msgid "Nothing found"
+msgstr "Rien de trouvé"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Object"
+msgstr "Objet"
+
+msgid "Offset"
+msgstr "Offset"
+
+msgid "Online tools"
+msgstr ""
+
+msgid "Opcode"
+msgstr "Opcode"
+
+msgid "Opcodes"
+msgstr "Opcodes"
+
+msgid "Open"
+msgstr "Ouvrir"
+
+msgid "Open directory"
+msgstr "Ouvrir un dossier"
+
+msgid "Open file"
+msgstr "Ouvrir un fichier"
+
+msgid "Operation system"
+msgstr "Le système d'exploitation"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Overlay"
+msgstr "Superposition"
+
+msgid "Packer"
+msgstr "Packer"
+
+msgid "Pause"
+msgstr "Pause"
+
+msgid "Player"
+msgstr "Joueur"
+
+msgid "Please restart the application"
+msgstr "Veuillez redémarrer l'application"
+
+msgid "Please run the program as an administrator"
+msgstr "Veuillez exécuter le programme en tant qu'administrateur"
+
+msgid "Please use valid API key"
+msgstr ""
+
+msgid "Pointer"
+msgstr "Aiguille"
+
+msgid "Print"
+msgstr "Imprimer"
+
+msgid "Process"
+msgstr "Traiter"
+
+msgid "Processes"
+msgstr "Processus"
+
+msgid "Program name"
+msgstr "Nom du programme"
+
+msgid "Programs"
+msgstr "Programmes"
+
+msgid "Protection"
+msgstr "protection"
+
+msgid "Protector"
+msgstr "Protecteur"
+
+msgid "Protector data"
+msgstr "Données sur le protecteur"
+
+msgid "Prototype"
+msgstr "Prototype"
+
+msgid "Publisher"
+msgstr "Éditeur"
+
+msgid "Raw data"
+msgstr "Données brutes"
+
+msgid "Read error"
+msgstr "Erreur de lecture"
+
+msgid "Readonly"
+msgstr "Lecture seule"
+
+msgid "Rebase"
+msgstr "Rebase"
+
+msgid "Recent files"
+msgstr ""
+
+msgid "Recursive"
+msgstr "Récursive"
+
+msgid "Recursive scan"
+msgstr "Analyse récursive"
+
+msgid "Ref from"
+msgstr "Référence de"
+
+msgid "Ref to"
+msgstr "Référence vers"
+
+msgid "Region"
+msgstr "Région"
+
+msgid "Regions"
+msgstr "Régions"
+
+msgid "Register"
+msgstr ""
+
+msgid "Relative address"
+msgstr "Adresse relative"
+
+msgid "Relative virtual address"
+msgstr "Adresse virtuelle relative"
+
+msgid "Reload"
+msgstr "Actualiser"
+
+msgid "Relocs"
+msgstr "Déplacements"
+
+msgid "Rescan"
+msgstr ""
+
+msgid "Resource"
+msgstr "Ressource"
+
+msgid "Resources"
+msgstr "Ressources"
+
+msgid "Restart"
+msgstr "Redémarrage"
+
+msgid "Result"
+msgstr "Résultats"
+
+msgid "Run"
+msgstr "Lancer"
+
+msgid "Runtime driver"
+msgstr "Pilote d'exécution"
+
+msgid "Save"
+msgstr "Sauvegarder"
+
+msgid "Save as"
+msgstr ""
+
+msgid "Save backup"
+msgstr "Enregistrer la sauvegarde"
+
+msgid "Save diagram"
+msgstr "Sauvegarder le diagramme"
+
+msgid "Save dump"
+msgstr "Sauvegarder l'exportation"
+
+msgid "Save file"
+msgstr "Sauvegarder le fichier"
+
+msgid "Save history"
+msgstr ""
+
+msgid "Save last directory"
+msgstr "Sauvegarder le dernier répertoire"
+
+msgid "Save result"
+msgstr "Enregistrer le résultat"
+
+msgid "Scan"
+msgstr "Analyser"
+
+msgid "Scan after open"
+msgstr "Analyser après ouverture"
+
+msgid "Script"
+msgstr "Scénario"
+
+msgid "Search"
+msgstr "Chercher"
+
+msgid "Search from"
+msgstr "Recherche à partir de"
+
+msgid "Search signatures"
+msgstr "Recherche des signatures"
+
+msgid "Search strings"
+msgstr "Chercher"
+
+msgid "Section"
+msgstr "Section"
+
+msgid "Section name"
+msgstr "Nom de la section"
+
+msgid "Sections"
+msgstr "Sections"
+
+msgid "Segment"
+msgstr "Segment"
+
+msgid "Segments"
+msgstr "Segments"
+
+msgid "Select"
+msgstr "Sélectionner"
+
+msgid "Select all"
+msgstr "Sélectionner tout"
+
+msgid "Selection"
+msgstr "Sélection"
+
+msgid "Serial number"
+msgstr "Numéro de série"
+
+msgid "Shortcut"
+msgstr "Raccourci"
+
+msgid "Shortcuts"
+msgstr "Raccourcis"
+
+msgid "Show"
+msgstr "Montrer"
+
+msgid "Show all"
+msgstr ""
+
+msgid "Show comments"
+msgstr "Afficher les commentaires"
+
+msgid "Show detects"
+msgstr ""
+
+msgid "Show in"
+msgstr ""
+
+msgid "Show logo"
+msgstr "Afficher le logo"
+
+msgid "Show options"
+msgstr "Afficher les options"
+
+msgid "Show type"
+msgstr "Afficher le type"
+
+msgid "Show valid"
+msgstr "Afficher valide"
+
+msgid "Show version"
+msgstr "Afficher la version"
+
+msgid "Sign tool"
+msgstr "Outils de signature"
+
+msgid "Signature"
+msgstr "Signature"
+
+msgid "Signatures"
+msgstr "Signatures"
+
+msgid "Single application"
+msgstr "Application unique"
+
+msgid "Size"
+msgstr "Taille"
+
+msgid "Size of image"
+msgstr "Taille de l'image"
+
+msgid "Sort elements"
+msgstr "Trier les éléments"
+
+msgid "Sort type"
+msgstr "Type de tri"
+
+msgid "Source"
+msgstr ""
+
+msgid "Source code"
+msgstr "Code source"
+
+msgid "Spaces"
+msgstr "Espaces"
+
+msgid "Stack"
+msgstr "Empiler"
+
+msgid "State"
+msgstr ""
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Stay on top"
+msgstr "Rester au dessus"
+
+msgid "Step into"
+msgstr "Pas à pas (entrant)"
+
+msgid "Step over"
+msgstr "Pas à pas (saut)"
+
+msgid "Stop"
+msgstr "Arrêtez"
+
+msgid "String"
+msgstr "Ligne de texte"
+
+msgid "String table"
+msgstr "Tableau de chaînes"
+
+msgid "Strings"
+msgstr "Lignes de texte"
+
+msgid "Struct"
+msgstr ""
+
+msgid "Struct and unions"
+msgstr "Structuration et syndicats"
+
+msgid "Structs"
+msgstr "Structures"
+
+msgid "Stub"
+msgstr "Squelette"
+
+msgid "Style"
+msgstr "Style"
+
+msgid "Subdirectories"
+msgstr "Sous-répertoires"
+
+msgid "Subject"
+msgstr "Sujet"
+
+msgid "Symbol"
+msgstr "symbole"
+
+msgid "Symbol table"
+msgstr "Table des symboles"
+
+msgid "Symbols"
+msgstr "Symboles"
+
+msgid "Syntax"
+msgstr "Syntaxe"
+
+msgid "TB"
+msgstr ""
+
+msgid "Table"
+msgstr "Table"
+
+msgid "Table of contents"
+msgstr "Table des matières"
+
+msgid "Text"
+msgstr "Texte"
+
+msgid "Text documents"
+msgstr "Documents texte"
+
+msgid "Text files"
+msgstr "Fichiers texte"
+
+msgid "Thanks"
+msgstr "Remerciements"
+
+msgid "The file is not signed"
+msgstr "Le fichier n'est pas signé"
+
+msgid "The file is signed and the signature was verified"
+msgstr "Le fichier est signé et la signature a été vérifiée"
+
+msgid "The signature error"
+msgstr "L'erreur de signature"
+
+msgid "The signature is present, but not trusted"
+msgstr "La signature est présente, mais non fiable"
+
+msgid "The signature is present, but specifically disallowed"
+msgstr "La signature est présente, mais spécifiquement interdite"
+
+msgid "Threads"
+msgstr "Fils"
+
+msgid "TiB"
+msgstr ""
+
+msgid "Time"
+msgstr "Temps"
+
+msgid "Time date stamp"
+msgstr "Horodatage"
+
+msgid "To data"
+msgstr "En data"
+
+msgid "Toggle"
+msgstr "Basculer"
+
+msgid "Tool"
+msgstr "Outil"
+
+msgid "Tools"
+msgstr "Outils"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Trace"
+msgstr ""
+
+msgid "Tree"
+msgstr "Arbre"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Unknown"
+msgstr "Inconnu"
+
+msgid "Upload the file for analyze?"
+msgstr ""
+
+msgid "Upper"
+msgstr "Haut de page"
+
+msgid "Uppercase"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "User mode"
+msgstr ""
+
+msgid "Value"
+msgstr "Valeur"
+
+msgid "Variable"
+msgstr "Variable"
+
+msgid "Verbose"
+msgstr ""
+
+msgid "Version"
+msgstr "Version"
+
+msgid "View"
+msgstr "Vue"
+
+msgid "Viewer"
+msgstr "Téléspectateur"
+
+msgid "Virtual address"
+msgstr "Adresse virtuelle"
+
+msgid "Virtual machine"
+msgstr "Machine virtuelle"
+
+msgid "Weak binding"
+msgstr "Liaison faible"
+
+msgid "Website"
+msgstr "Site Internet"
+
+msgid "Wildcard"
+msgstr "Joker"
+
+msgid "Write error"
+msgstr "Erreur d'écriture"
+
+msgid "compressor"
+msgstr "compresseur"
+
+msgid "data"
+msgstr "données"
+
+msgid "extender"
+msgstr "extenseur"
+
+msgid "kB"
+msgstr "Ko"
+
+msgid "msec"
+msgstr "msec"
+
+msgid "not packed"
+msgstr "pas compressé"
+
+msgid "obfuscator"
+msgstr "obfuscateur"
+
+msgid "packed"
+msgstr "compressé"
+
+msgid "protection"
+msgstr "protection"
