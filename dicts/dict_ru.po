@@ -1,0 +1,1163 @@
+# 
+# Translators:
+# Pablo Luchiano, 2022
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Pablo Luchiano, 2022\n"
+"Language-Team: Russian (https://www.transifex.com/linxp2007/teams/148982/ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+"X-Language: en_US\n"
+
+msgid "128-bit"
+msgstr "128-битный"
+
+msgid "16-bit"
+msgstr "16-битный"
+
+msgid "32-bit"
+msgstr "32-битный"
+
+msgid "64-bit"
+msgstr "64-битный"
+
+msgid "8-bit"
+msgstr "8-битный"
+
+msgid "API key"
+msgstr "API-ключ"
+
+msgid "About"
+msgstr "О программе"
+
+msgid "Action"
+msgstr "Действие"
+
+msgid "Add alignment"
+msgstr "Добавить выравнивание"
+
+msgid "Add to context menu"
+msgstr "Добавить программу в контекстное меню"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Address colon"
+msgstr "Разделитель в адресе (:)"
+
+msgid "Algorithm"
+msgstr "Алгоритм"
+
+msgid "All"
+msgstr "Все"
+
+msgid "All files"
+msgstr "Все файлы"
+
+msgid "All types"
+msgstr "Все типы"
+
+msgid "Allocation base"
+msgstr ""
+
+msgid "Allocation flags"
+msgstr ""
+
+msgid "Analyze"
+msgstr "Анализировать"
+
+msgid "Animate"
+msgstr ""
+
+msgid "Appearance"
+msgstr "Внешний вид"
+
+msgid "Application"
+msgstr "Приложение"
+
+msgid "Architecture"
+msgstr "Архитектура"
+
+msgid "Archive"
+msgstr "Архив"
+
+msgid "Archive record"
+msgstr "Архивная запись"
+
+msgid "Array"
+msgstr "Массив"
+
+msgid "Attach"
+msgstr "Прикрепить"
+
+msgid "Automatic"
+msgstr "Автоматически"
+
+msgid "Background"
+msgstr "Фон"
+
+msgid "Base address"
+msgstr "Базовый адрес"
+
+msgid "Begin"
+msgstr "Начало"
+
+msgid "Bind"
+msgstr "Связывать"
+
+msgid "Binding"
+msgstr "Привязка"
+
+msgid "Boot application"
+msgstr "Загрузочное приложение"
+
+msgid "Boot service driver"
+msgstr "Драйвер службы загрузки"
+
+msgid "Bound import"
+msgstr "Связанный импорт"
+
+msgid "Breakpoint"
+msgstr "Контрольная точка"
+
+msgid "Breakpoints"
+msgstr "Контрольные точки"
+
+msgid "Bugreports"
+msgstr "Сообщения об ошибках"
+
+msgid "Byte"
+msgstr "Байт"
+
+msgid "Bytes"
+msgstr "Байты"
+
+msgid "Bytes available"
+msgstr "Байт доступно"
+
+msgid "C Strings"
+msgstr "C строки"
+
+msgid "CPU"
+msgstr "Процессор"
+
+msgid "Calculate"
+msgstr "Вычислить"
+
+msgid "Callbacks"
+msgstr "Обратные вызовы"
+
+msgid "Calls"
+msgstr "Вызовы"
+
+msgid "Callstack"
+msgstr "Стек вызовов"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Cannot get PDB age"
+msgstr "Не удается получить возраст PDB"
+
+msgid "Cannot get PDB name"
+msgstr "Не удается получить имя PDB"
+
+msgid "Cannot load data from PDB"
+msgstr "Не удается загрузить данные из PDB"
+
+msgid "Cannot load database"
+msgstr "Не удается загрузить базу данных"
+
+msgid "Cannot load driver"
+msgstr "Не удаётся загрузить драйвер"
+
+msgid "Cannot load file"
+msgstr "Невозможно загрузить файл"
+
+msgid "Cannot load msdia library"
+msgstr "Не удается загрузить библиотеку msdia"
+
+msgid "Cannot open file"
+msgstr "Невозможно открыть файл"
+
+msgid "Cannot open session"
+msgstr "Невозможно открыть сеанс"
+
+msgid "Cannot read memory at address"
+msgstr "Невозможно прочитать память по адресу"
+
+msgid "Cannot save file"
+msgstr "Невозможно сохранить файл"
+
+msgid "Cannot set shortcut"
+msgstr "Невозможно создать ссылку"
+
+msgid "Certificate"
+msgstr "Сертификат"
+
+msgid "Check"
+msgstr "Проверить"
+
+msgid "Check updates"
+msgstr "Проверить обновления"
+
+msgid "Clear"
+msgstr "Очистить"
+
+msgid "Clear result"
+msgstr "Очистить результат"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Code pages"
+msgstr ""
+
+msgid "Code section"
+msgstr "Секция кода"
+
+msgid "Colors"
+msgstr "Цвета"
+
+msgid "Commands"
+msgstr "Команды"
+
+msgid "Comment"
+msgstr "Комментарий"
+
+msgid "Compiler"
+msgstr "Компилятор"
+
+msgid "Console"
+msgstr "Консоль"
+
+msgid "Converter"
+msgstr "Конвертер"
+
+msgid "Copy"
+msgstr "Копировать"
+
+msgid "Copy as"
+msgstr "Копировать как"
+
+msgid "Count"
+msgstr "Число"
+
+msgid "Create view model"
+msgstr "Создать модель вида"
+
+msgid "Cryptor"
+msgstr "Криптор"
+
+msgid "Cursor"
+msgstr "Курсор"
+
+msgid "Data"
+msgstr "Данные"
+
+msgid "Data in code"
+msgstr "Данные в коде"
+
+msgid "Data inspector"
+msgstr ""
+
+msgid "Database"
+msgstr "База данных"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Debug"
+msgstr "Отладка"
+
+msgid "Debug data"
+msgstr "Отладочная информация"
+
+msgid "Debugger"
+msgstr "Отладчик"
+
+msgid "Deep scan"
+msgstr "Глубокий анализ"
+
+msgid "Default"
+msgstr "По умолчанию"
+
+msgid "Delay import"
+msgstr "Отложенный импорт"
+
+msgid "Demangle"
+msgstr "Demangle"
+
+msgid "Dependencies"
+msgstr "Зависимости"
+
+msgid "Detach"
+msgstr "Отсоединить"
+
+msgid "Detect"
+msgstr ""
+
+msgid "Device"
+msgstr "Устройство"
+
+msgid "Device scan"
+msgstr "Сканирование устройства"
+
+msgid "Diagram"
+msgstr "Диаграмма"
+
+msgid "Directory"
+msgstr "Папка"
+
+msgid "Directory scan"
+msgstr "Сканирование папки"
+
+msgid "Disasm"
+msgstr "Дизассемблировать"
+
+msgid "Document"
+msgstr "Документ"
+
+msgid "Documents"
+msgstr "Документы"
+
+msgid "Donate"
+msgstr "Донат"
+
+msgid "Driver"
+msgstr "Драйвер"
+
+msgid "Dump"
+msgstr "Дамп"
+
+msgid "Dump to file"
+msgstr "Дамп в файл"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Elapsed"
+msgstr "Прошло"
+
+msgid "Endianness"
+msgstr "Порядок байт"
+
+msgid "Entropy"
+msgstr "Энтропия"
+
+msgid "Entry point"
+msgstr "Точка входа"
+
+msgid "Entry point section"
+msgstr "Секция точки входа"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Exceptions"
+msgstr "Исключения"
+
+msgid "Exit"
+msgstr "Выход"
+
+msgid "Export"
+msgstr "Экспорт"
+
+msgid "Export File Name"
+msgstr "Имя файла экспорта"
+
+msgid "Export type"
+msgstr "Тип экспорта"
+
+msgid "External references"
+msgstr "Внешние ссылки"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "File info"
+msgstr "Информация о файле"
+
+msgid "File name"
+msgstr "Имя файла"
+
+msgid "File offset"
+msgstr "Смещение в файле"
+
+msgid "File saved"
+msgstr "Файл сохранён"
+
+msgid "File scan"
+msgstr "Сканирование файла"
+
+msgid "File type"
+msgstr "Тип файла"
+
+msgid "Filename"
+msgstr "Имя файла"
+
+msgid "Files"
+msgstr "Файлы"
+
+msgid "Filter"
+msgstr "Фильтр"
+
+msgid "Find"
+msgstr "Поиск"
+
+msgid "Find next"
+msgstr "Найти далее"
+
+msgid "Fix offsets"
+msgstr "Исправить смещения"
+
+msgid "Fix types"
+msgstr "Исправить типы"
+
+msgid "Flags"
+msgstr "Флаги"
+
+msgid "Folder"
+msgstr "Директория"
+
+msgid "Follow in"
+msgstr "Следовать в"
+
+msgid "Font"
+msgstr "Шрифт"
+
+msgid "Form"
+msgstr "Форма"
+
+msgid "Format"
+msgstr "Формат"
+
+msgid "Function"
+msgstr "Функция"
+
+msgid "Functions"
+msgstr "Функции"
+
+msgid "GB"
+msgstr "ГБ"
+
+msgid "Generic"
+msgstr "Обобщенный"
+
+msgid "Get"
+msgstr "Получить"
+
+msgid "Get element"
+msgstr "Получить элемент"
+
+msgid "GiB"
+msgstr ""
+
+msgid "Go to"
+msgstr "Перейти к"
+
+msgid "Go to address"
+msgstr "Перейти к адресу"
+
+msgid "Grid"
+msgstr "Сетка"
+
+msgid "Handles"
+msgstr "Хэндлы"
+
+msgid "Hash"
+msgstr "Хеш"
+
+msgid "Header"
+msgstr "Заголовок"
+
+msgid "Help"
+msgstr "Справка"
+
+msgid "Heuristic"
+msgstr "Эвристика"
+
+msgid "Heuristic scan"
+msgstr "Эвристическое сканирование"
+
+msgid "Hex"
+msgstr "Hex"
+
+msgid "Hex signature"
+msgstr "16-ричная сигнатура"
+
+msgid "Highlight"
+msgstr "Подсветка синтаксиса"
+
+msgid "Image"
+msgstr "Рисунок"
+
+msgid "Images"
+msgstr "Рисунки"
+
+msgid "Import"
+msgstr "Импорт"
+
+msgid "Import hash"
+msgstr "Хеш импорта"
+
+msgid "Indirect symbols"
+msgstr "Косвенные символы"
+
+msgid "Info"
+msgstr "Инфо"
+
+msgid "Information"
+msgstr "Информация"
+
+msgid "Installer"
+msgstr "Установщик"
+
+msgid "Installer data"
+msgstr "Данные установщика"
+
+msgid "Interpreter"
+msgstr "Интерпретатор"
+
+msgid "Invalid"
+msgstr "Неверный"
+
+msgid "Invalid opcode"
+msgstr "Неверный опкод"
+
+msgid "Invalid signature"
+msgstr ""
+
+msgid "Issuer"
+msgstr "Эмитент"
+
+msgid "It is not a valid file"
+msgstr "Неверный файл"
+
+msgid "Joiner"
+msgstr "Джойнер"
+
+msgid "Jumps"
+msgstr "Переходы"
+
+msgid "Keep size"
+msgstr "Сохранять размер"
+
+msgid "Kernel mode"
+msgstr "Режим ядра"
+
+msgid "KiB"
+msgstr ""
+
+msgid "Label"
+msgstr "Метка"
+
+msgid "Labels"
+msgstr "Метки"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Lazy binding"
+msgstr "Ленивая привязка"
+
+msgid "Length"
+msgstr "Длина"
+
+msgid "Libraries"
+msgstr "Библиотеки"
+
+msgid "Library"
+msgstr "Библиотека"
+
+msgid "Library name"
+msgstr "Название библиотеки"
+
+msgid "Linker"
+msgstr "Линковщик"
+
+msgid "Load config"
+msgstr "Загрузочная конфигурация"
+
+msgid "Local relocation"
+msgstr "Локальное перемещение"
+
+msgid "Log"
+msgstr "Журнал"
+
+msgid "MB"
+msgstr "МБ"
+
+msgid "MainWindow"
+msgstr "MainWindow"
+
+msgid "Manifest"
+msgstr "Манифест"
+
+msgid "Match case"
+msgstr "Учитывать регистр"
+
+msgid "Maximum"
+msgstr "Максимум"
+
+msgid "Memory"
+msgstr "Память"
+
+msgid "Memory map"
+msgstr "Карта памяти"
+
+msgid "Memory scan"
+msgstr "Сканирование памяти"
+
+msgid "Metadata"
+msgstr "Метаданные"
+
+msgid "Method"
+msgstr "Метод"
+
+msgid "MiB"
+msgstr ""
+
+msgid "Mode"
+msgstr "Режим"
+
+msgid "Module"
+msgstr "Модуль"
+
+msgid "Modules"
+msgstr "Модули"
+
+msgid "More info"
+msgstr "Больше информации"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Next"
+msgstr "Далее"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "Nothing found"
+msgstr "Ничего не найдено"
+
+msgid "OK"
+msgstr "ОК"
+
+msgid "Object"
+msgstr "Объект"
+
+msgid "Offset"
+msgstr "Смещение"
+
+msgid "Online tools"
+msgstr "Онлайн-инструменты"
+
+msgid "Opcode"
+msgstr "Опкод"
+
+msgid "Opcodes"
+msgstr "Опкоды"
+
+msgid "Open"
+msgstr "Открыть"
+
+msgid "Open directory"
+msgstr "Открыть папку"
+
+msgid "Open file"
+msgstr "Открыть файл"
+
+msgid "Operation system"
+msgstr "Операционная система"
+
+msgid "Options"
+msgstr "Настройки"
+
+msgid "Overlay"
+msgstr "Оверлей"
+
+msgid "Packer"
+msgstr "Упаковщик"
+
+msgid "Pause"
+msgstr "Пауза"
+
+msgid "Player"
+msgstr "Игрок"
+
+msgid "Please restart the application"
+msgstr "Пожалуйста, перезапустите приложение"
+
+msgid "Please run the program as an administrator"
+msgstr "Пожалуйста, запустите программу от имени администратора"
+
+msgid "Please use valid API key"
+msgstr "Пожалуйста, используйте действительный ключ API-ключ"
+
+msgid "Pointer"
+msgstr "Указатель"
+
+msgid "Print"
+msgstr "Распечатать"
+
+msgid "Process"
+msgstr "Процесс"
+
+msgid "Processes"
+msgstr "Процессы"
+
+msgid "Program name"
+msgstr "Название программы"
+
+msgid "Programs"
+msgstr "Программ"
+
+msgid "Protection"
+msgstr "Защита"
+
+msgid "Protector"
+msgstr "Протектор"
+
+msgid "Protector data"
+msgstr "Данные протектора"
+
+msgid "Prototype"
+msgstr "Прототип"
+
+msgid "Publisher"
+msgstr "Издатель"
+
+msgid "Raw data"
+msgstr "Сырые данные"
+
+msgid "Read error"
+msgstr "Ошибка чтения"
+
+msgid "Readonly"
+msgstr "Только чтение"
+
+msgid "Rebase"
+msgstr "Rebase"
+
+msgid "Recent files"
+msgstr "Недавние файлы"
+
+msgid "Recursive"
+msgstr "Рекурсивно"
+
+msgid "Recursive scan"
+msgstr "Рекурсивное сканирование"
+
+msgid "Ref from"
+msgstr "Ссылка из"
+
+msgid "Ref to"
+msgstr "Ссылка в"
+
+msgid "Region"
+msgstr "Область"
+
+msgid "Regions"
+msgstr "Регионы"
+
+msgid "Register"
+msgstr "Регистр"
+
+msgid "Relative address"
+msgstr "Относительный адрес"
+
+msgid "Relative virtual address"
+msgstr "Относительный виртуальный адрес"
+
+msgid "Reload"
+msgstr "Обновить"
+
+msgid "Relocs"
+msgstr "Relocs"
+
+msgid "Rescan"
+msgstr "Пересканировать"
+
+msgid "Resource"
+msgstr "Ресурс"
+
+msgid "Resources"
+msgstr "Ресурсы"
+
+msgid "Restart"
+msgstr "Рестарт"
+
+msgid "Result"
+msgstr "Результат"
+
+msgid "Run"
+msgstr "Запустить"
+
+msgid "Runtime driver"
+msgstr "Драйвер времени выполнения"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Save as"
+msgstr "Сохранить как"
+
+msgid "Save backup"
+msgstr "Сохранять резервную копию"
+
+msgid "Save diagram"
+msgstr "Сохранить график"
+
+msgid "Save dump"
+msgstr "Сохранить дамп"
+
+msgid "Save file"
+msgstr "Сохранить файл"
+
+msgid "Save history"
+msgstr "Сохранить историю"
+
+msgid "Save last directory"
+msgstr "Поминть папку последнего сканирования"
+
+msgid "Save result"
+msgstr "Сохранить"
+
+msgid "Scan"
+msgstr "Сканировать"
+
+msgid "Scan after open"
+msgstr "Сразу сканировать"
+
+msgid "Script"
+msgstr "Скрипт"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Search from"
+msgstr "Поиск с"
+
+msgid "Search signatures"
+msgstr "Поиск сигнатур"
+
+msgid "Search strings"
+msgstr "Поиск строк"
+
+msgid "Section"
+msgstr "Секция"
+
+msgid "Section name"
+msgstr "Имя секции"
+
+msgid "Sections"
+msgstr "Секции"
+
+msgid "Segment"
+msgstr "Сегмент"
+
+msgid "Segments"
+msgstr "Сегменты"
+
+msgid "Select"
+msgstr "Выбрать"
+
+msgid "Select all"
+msgstr "Выбрать все"
+
+msgid "Selection"
+msgstr "Выделение"
+
+msgid "Serial number"
+msgstr "Серийный номер"
+
+msgid "Shortcut"
+msgstr "Сочетание клавиш"
+
+msgid "Shortcuts"
+msgstr "Сочетания клавиш"
+
+msgid "Show"
+msgstr "Показывать"
+
+msgid "Show all"
+msgstr "Показать всё"
+
+msgid "Show comments"
+msgstr "Показать комментарии"
+
+msgid "Show detects"
+msgstr "Показать обнаружение"
+
+msgid "Show in"
+msgstr "Показать в"
+
+msgid "Show logo"
+msgstr "Показать логотип"
+
+msgid "Show options"
+msgstr "Показать настройки"
+
+msgid "Show type"
+msgstr "Показать тип"
+
+msgid "Show valid"
+msgstr "Показать правильно"
+
+msgid "Show version"
+msgstr "Показать версию"
+
+msgid "Sign tool"
+msgstr "Инструмент подписания"
+
+msgid "Signature"
+msgstr "Сигнатура"
+
+msgid "Signatures"
+msgstr "Сигнатуры"
+
+msgid "Single application"
+msgstr "Запускать только одну копию приложения"
+
+msgid "Size"
+msgstr "Размер"
+
+msgid "Size of image"
+msgstr "Размер изображения"
+
+msgid "Sort elements"
+msgstr "Сортировать элементы"
+
+msgid "Sort type"
+msgstr "Тип сортировки"
+
+msgid "Source"
+msgstr "Источник"
+
+msgid "Source code"
+msgstr "Исходный код"
+
+msgid "Spaces"
+msgstr "Пробелы"
+
+msgid "Stack"
+msgstr "Стек"
+
+msgid "State"
+msgstr "Состояние"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Stay on top"
+msgstr "Поверх всех окон"
+
+msgid "Step into"
+msgstr "Шаг внутрь"
+
+msgid "Step over"
+msgstr "Шаг поверх"
+
+msgid "Stop"
+msgstr "Стоп"
+
+msgid "String"
+msgstr "Строка"
+
+msgid "String table"
+msgstr "Таблица строк"
+
+msgid "Strings"
+msgstr "Строки"
+
+msgid "Struct"
+msgstr "Структура"
+
+msgid "Struct and unions"
+msgstr "Структура и юнионы"
+
+msgid "Structs"
+msgstr "Структуры"
+
+msgid "Stub"
+msgstr "Заглушка"
+
+msgid "Style"
+msgstr "Стиль"
+
+msgid "Subdirectories"
+msgstr "Подкаталоги"
+
+msgid "Subject"
+msgstr "Тема"
+
+msgid "Symbol"
+msgstr "Символ"
+
+msgid "Symbol table"
+msgstr "Таблица символов"
+
+msgid "Symbols"
+msgstr "Символы"
+
+msgid "Syntax"
+msgstr "Синтаксис"
+
+msgid "TB"
+msgstr "ТБ"
+
+msgid "Table"
+msgstr "Таблица"
+
+msgid "Table of contents"
+msgstr "Таблица с содержимым"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Text documents"
+msgstr "Текстовые документы"
+
+msgid "Text files"
+msgstr "Текстовые файлы"
+
+msgid "Thanks"
+msgstr "Благодарности"
+
+msgid "The file is not signed"
+msgstr "Файл не подписан"
+
+msgid "The file is signed and the signature was verified"
+msgstr "Файл подписан, подпись проверена."
+
+msgid "The signature error"
+msgstr "Ошибка подписи"
+
+msgid "The signature is present, but not trusted"
+msgstr "Подпись присутствует, но не доверяет"
+
+msgid "The signature is present, but specifically disallowed"
+msgstr "Подпись присутствует, но специально не разрешена"
+
+msgid "Threads"
+msgstr "Потоки"
+
+msgid "TiB"
+msgstr ""
+
+msgid "Time"
+msgstr "Время"
+
+msgid "Time date stamp"
+msgstr "Отметка даты и времени"
+
+msgid "To data"
+msgstr "К данным"
+
+msgid "Toggle"
+msgstr "Переключать"
+
+msgid "Tool"
+msgstr "Инструмент"
+
+msgid "Tools"
+msgstr "Инструменты"
+
+msgid "Total"
+msgstr "Всего"
+
+msgid "Trace"
+msgstr ""
+
+msgid "Tree"
+msgstr "Дерево"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Upload the file for analyze?"
+msgstr "Загрузить файл для анализа?"
+
+msgid "Upper"
+msgstr "Верхний регистр"
+
+msgid "Uppercase"
+msgstr "Верхний регистр"
+
+msgid "User"
+msgstr "Пользователь"
+
+msgid "User mode"
+msgstr "Пользовательский режим"
+
+msgid "Value"
+msgstr "Значение"
+
+msgid "Variable"
+msgstr "Переменная"
+
+msgid "Verbose"
+msgstr "Подробно"
+
+msgid "Version"
+msgstr "Версия"
+
+msgid "View"
+msgstr "Вид"
+
+msgid "Viewer"
+msgstr "Просмотрщик"
+
+msgid "Virtual address"
+msgstr "Виртуальный адрес"
+
+msgid "Virtual machine"
+msgstr "Виртуальная машина"
+
+msgid "Weak binding"
+msgstr "Слабое связывание"
+
+msgid "Website"
+msgstr "Веб-сайт"
+
+msgid "Wildcard"
+msgstr "Маска"
+
+msgid "Write error"
+msgstr "Ошибка записи"
+
+msgid "compressor"
+msgstr "упаковщик"
+
+msgid "data"
+msgstr "данные"
+
+msgid "extender"
+msgstr "расширение"
+
+msgid "kB"
+msgstr "кБ"
+
+msgid "msec"
+msgstr "мс"
+
+msgid "not packed"
+msgstr "несжатый"
+
+msgid "obfuscator"
+msgstr "обфускатор"
+
+msgid "packed"
+msgstr "сжатый"
+
+msgid "protection"
+msgstr "защита"
