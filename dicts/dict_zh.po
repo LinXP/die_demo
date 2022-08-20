@@ -1,0 +1,1163 @@
+# 
+# Translators:
+# Pablo Luchiano, 2022
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Pablo Luchiano, 2022\n"
+"Language-Team: Chinese (https://www.transifex.com/linxp2007/teams/148982/zh/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: en_US\n"
+
+msgid "128-bit"
+msgstr "128 位"
+
+msgid "16-bit"
+msgstr "16 位"
+
+msgid "32-bit"
+msgstr "32 位"
+
+msgid "64-bit"
+msgstr "64 位"
+
+msgid "8-bit"
+msgstr "8 位"
+
+msgid "API key"
+msgstr ""
+
+msgid "About"
+msgstr "关于"
+
+msgid "Action"
+msgstr "处理"
+
+msgid "Add alignment"
+msgstr "添加对齐"
+
+msgid "Add to context menu"
+msgstr "添加到上下文菜单"
+
+msgid "Address"
+msgstr "地址"
+
+msgid "Address colon"
+msgstr ""
+
+msgid "Algorithm"
+msgstr "算法"
+
+msgid "All"
+msgstr "所有"
+
+msgid "All files"
+msgstr "所有文件"
+
+msgid "All types"
+msgstr "所有类型"
+
+msgid "Allocation base"
+msgstr "分配基址"
+
+msgid "Allocation flags"
+msgstr "分配标识符"
+
+msgid "Analyze"
+msgstr "分析"
+
+msgid "Animate"
+msgstr ""
+
+msgid "Appearance"
+msgstr "外观"
+
+msgid "Application"
+msgstr "应用"
+
+msgid "Architecture"
+msgstr "架构"
+
+msgid "Archive"
+msgstr "存档"
+
+msgid "Archive record"
+msgstr "存档记录"
+
+msgid "Array"
+msgstr "数组"
+
+msgid "Attach"
+msgstr "附加"
+
+msgid "Automatic"
+msgstr "自动"
+
+msgid "Background"
+msgstr "背景"
+
+msgid "Base address"
+msgstr "基址"
+
+msgid "Begin"
+msgstr "开始"
+
+msgid "Bind"
+msgstr "绑定"
+
+msgid "Binding"
+msgstr "捆绑"
+
+msgid "Boot application"
+msgstr "启动应用程序"
+
+msgid "Boot service driver"
+msgstr "引导服务驱动程序"
+
+msgid "Bound import"
+msgstr "绑定导入"
+
+msgid "Breakpoint"
+msgstr "断点"
+
+msgid "Breakpoints"
+msgstr "全部断点"
+
+msgid "Bugreports"
+msgstr "错误报告"
+
+msgid "Byte"
+msgstr "字节"
+
+msgid "Bytes"
+msgstr "字节数"
+
+msgid "Bytes available"
+msgstr "可用字节"
+
+msgid "C Strings"
+msgstr "C 字符串"
+
+msgid "CPU"
+msgstr ""
+
+msgid "Calculate"
+msgstr "计算"
+
+msgid "Callbacks"
+msgstr "回调"
+
+msgid "Calls"
+msgstr "调用"
+
+msgid "Callstack"
+msgstr "调用栈"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cannot get PDB age"
+msgstr "无法获取 PDB 年龄"
+
+msgid "Cannot get PDB name"
+msgstr "无法获取 PDB 名称"
+
+msgid "Cannot load data from PDB"
+msgstr "无法从 PDB 加载数据"
+
+msgid "Cannot load database"
+msgstr "无法加载数据库"
+
+msgid "Cannot load driver"
+msgstr "无法加载驱动"
+
+msgid "Cannot load file"
+msgstr "无法加载文件"
+
+msgid "Cannot load msdia library"
+msgstr "无法加载 msdia 库"
+
+msgid "Cannot open file"
+msgstr "无法打开文件"
+
+msgid "Cannot open session"
+msgstr "无法打开会话"
+
+msgid "Cannot read memory at address"
+msgstr "无法读取地址处的内存"
+
+msgid "Cannot save file"
+msgstr "无法保存文件"
+
+msgid "Cannot set shortcut"
+msgstr "无法设置快捷键"
+
+msgid "Certificate"
+msgstr "证书"
+
+msgid "Check"
+msgstr "查看"
+
+msgid "Check updates"
+msgstr "检查更新"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Clear result"
+msgstr "清除结果"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Code pages"
+msgstr ""
+
+msgid "Code section"
+msgstr "代码段"
+
+msgid "Colors"
+msgstr "所有颜色"
+
+msgid "Commands"
+msgstr "指令"
+
+msgid "Comment"
+msgstr "注释"
+
+msgid "Compiler"
+msgstr "编译器"
+
+msgid "Console"
+msgstr "控制台"
+
+msgid "Converter"
+msgstr "转换器"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "Copy as"
+msgstr "复制为"
+
+msgid "Count"
+msgstr "计数"
+
+msgid "Create view model"
+msgstr "创建视图模型"
+
+msgid "Cryptor"
+msgstr "加密库"
+
+msgid "Cursor"
+msgstr "光标"
+
+msgid "Data"
+msgstr "数据"
+
+msgid "Data in code"
+msgstr "代码中的数据"
+
+msgid "Data inspector"
+msgstr ""
+
+msgid "Database"
+msgstr "数据库"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Debug"
+msgstr "调试"
+
+msgid "Debug data"
+msgstr "调试数据"
+
+msgid "Debugger"
+msgstr "调试器"
+
+msgid "Deep scan"
+msgstr "深度扫描"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Delay import"
+msgstr "延迟导入"
+
+msgid "Demangle"
+msgstr "符号重组"
+
+msgid "Dependencies"
+msgstr "依赖关系"
+
+msgid "Detach"
+msgstr "分离"
+
+msgid "Detect"
+msgstr ""
+
+msgid "Device"
+msgstr "设备"
+
+msgid "Device scan"
+msgstr "设备扫描"
+
+msgid "Diagram"
+msgstr "图解"
+
+msgid "Directory"
+msgstr "目录"
+
+msgid "Directory scan"
+msgstr "目录扫描"
+
+msgid "Disasm"
+msgstr "反汇编"
+
+msgid "Document"
+msgstr "文献"
+
+msgid "Documents"
+msgstr "文档"
+
+msgid "Donate"
+msgstr "捐赠"
+
+msgid "Driver"
+msgstr "驱动"
+
+msgid "Dump"
+msgstr "转储"
+
+msgid "Dump to file"
+msgstr "转储到文件"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Elapsed"
+msgstr "已耗时"
+
+msgid "Endianness"
+msgstr "字节序"
+
+msgid "Entropy"
+msgstr "信息熵"
+
+msgid "Entry point"
+msgstr "入口点"
+
+msgid "Entry point section"
+msgstr "入口点段"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Exceptions"
+msgstr "例外"
+
+msgid "Exit"
+msgstr "退出"
+
+msgid "Export"
+msgstr "导出"
+
+msgid "Export File Name"
+msgstr "导出文件名称"
+
+msgid "Export type"
+msgstr "出口类型"
+
+msgid "External references"
+msgstr "外部参考"
+
+msgid "File"
+msgstr "文件"
+
+msgid "File info"
+msgstr "文件信息"
+
+msgid "File name"
+msgstr "文件名"
+
+msgid "File offset"
+msgstr "文件偏移"
+
+msgid "File saved"
+msgstr "文件已保存"
+
+msgid "File scan"
+msgstr "文件扫描"
+
+msgid "File type"
+msgstr "文件类型"
+
+msgid "Filename"
+msgstr "文件名"
+
+msgid "Files"
+msgstr "文件"
+
+msgid "Filter"
+msgstr "过滤器"
+
+msgid "Find"
+msgstr "查找"
+
+msgid "Find next"
+msgstr "查找下一个"
+
+msgid "Fix offsets"
+msgstr "修复偏移"
+
+msgid "Fix types"
+msgstr "修复类型"
+
+msgid "Flags"
+msgstr "标志寄存器"
+
+msgid "Folder"
+msgstr "文件夹"
+
+msgid "Follow in"
+msgstr ""
+
+msgid "Font"
+msgstr "字体"
+
+msgid "Form"
+msgstr "载入"
+
+msgid "Format"
+msgstr "格式"
+
+msgid "Function"
+msgstr "函数"
+
+msgid "Functions"
+msgstr "函数"
+
+msgid "GB"
+msgstr ""
+
+msgid "Generic"
+msgstr "通用"
+
+msgid "Get"
+msgstr ""
+
+msgid "Get element"
+msgstr "获取元素"
+
+msgid "GiB"
+msgstr ""
+
+msgid "Go to"
+msgstr "转到"
+
+msgid "Go to address"
+msgstr "转到地址"
+
+msgid "Grid"
+msgstr ""
+
+msgid "Handles"
+msgstr "句柄"
+
+msgid "Hash"
+msgstr "哈希"
+
+msgid "Header"
+msgstr "文件头"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Heuristic"
+msgstr "启发式"
+
+msgid "Heuristic scan"
+msgstr "启发式扫描"
+
+msgid "Hex"
+msgstr "十六进制"
+
+msgid "Hex signature"
+msgstr "十六进制签名"
+
+msgid "Highlight"
+msgstr ""
+
+msgid "Image"
+msgstr "镜像"
+
+msgid "Images"
+msgstr "镜像"
+
+msgid "Import"
+msgstr "导入表"
+
+msgid "Import hash"
+msgstr "导入哈希"
+
+msgid "Indirect symbols"
+msgstr "间接符号"
+
+msgid "Info"
+msgstr "信息"
+
+msgid "Information"
+msgstr "信息"
+
+msgid "Installer"
+msgstr "安装程序"
+
+msgid "Installer data"
+msgstr "安装程序数据"
+
+msgid "Interpreter"
+msgstr "解释器"
+
+msgid "Invalid"
+msgstr "无效"
+
+msgid "Invalid opcode"
+msgstr "无效的操作码"
+
+msgid "Invalid signature"
+msgstr ""
+
+msgid "Issuer"
+msgstr "发行人"
+
+msgid "It is not a valid file"
+msgstr "不是有效文件"
+
+msgid "Joiner"
+msgstr "合并工具"
+
+msgid "Jumps"
+msgstr "跳过"
+
+msgid "Keep size"
+msgstr "保持大小"
+
+msgid "Kernel mode"
+msgstr "内核模式"
+
+msgid "KiB"
+msgstr ""
+
+msgid "Label"
+msgstr "标签"
+
+msgid "Labels"
+msgstr "标贴"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Lazy binding"
+msgstr "延迟绑定"
+
+msgid "Length"
+msgstr "长度"
+
+msgid "Libraries"
+msgstr "全部库"
+
+msgid "Library"
+msgstr "库"
+
+msgid "Library name"
+msgstr "库名称"
+
+msgid "Linker"
+msgstr "链接程序"
+
+msgid "Load config"
+msgstr "加载配置"
+
+msgid "Local relocation"
+msgstr "局部重定位"
+
+msgid "Log"
+msgstr "日志"
+
+msgid "MB"
+msgstr ""
+
+msgid "MainWindow"
+msgstr "主窗口"
+
+msgid "Manifest"
+msgstr "显示"
+
+msgid "Match case"
+msgstr "区分大小写"
+
+msgid "Maximum"
+msgstr "最大值"
+
+msgid "Memory"
+msgstr "内存"
+
+msgid "Memory map"
+msgstr "内存映射"
+
+msgid "Memory scan"
+msgstr "内存扫描"
+
+msgid "Metadata"
+msgstr "元数据"
+
+msgid "Method"
+msgstr "方法"
+
+msgid "MiB"
+msgstr ""
+
+msgid "Mode"
+msgstr "模式"
+
+msgid "Module"
+msgstr "模块"
+
+msgid "Modules"
+msgstr "全部模块"
+
+msgid "More info"
+msgstr "更多信息"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Next"
+msgstr "下一个"
+
+msgid "No"
+msgstr "否"
+
+msgid "Nothing found"
+msgstr "没有找到"
+
+msgid "OK"
+msgstr "确定"
+
+msgid "Object"
+msgstr "对象"
+
+msgid "Offset"
+msgstr "偏移"
+
+msgid "Online tools"
+msgstr "在线工具"
+
+msgid "Opcode"
+msgstr "指令"
+
+msgid "Opcodes"
+msgstr "指令集"
+
+msgid "Open"
+msgstr "打开"
+
+msgid "Open directory"
+msgstr "打开目录"
+
+msgid "Open file"
+msgstr "打开文件"
+
+msgid "Operation system"
+msgstr "操作系统"
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Overlay"
+msgstr "附加"
+
+msgid "Packer"
+msgstr "打包工具"
+
+msgid "Pause"
+msgstr "暂停"
+
+msgid "Player"
+msgstr "播放器"
+
+msgid "Please restart the application"
+msgstr "请重启应用程序"
+
+msgid "Please run the program as an administrator"
+msgstr "请以管理员身份运行程序"
+
+msgid "Please use valid API key"
+msgstr ""
+
+msgid "Pointer"
+msgstr "指针"
+
+msgid "Print"
+msgstr "打印"
+
+msgid "Process"
+msgstr "进程"
+
+msgid "Processes"
+msgstr "全部进程"
+
+msgid "Program name"
+msgstr "程序名称"
+
+msgid "Programs"
+msgstr "全部程序"
+
+msgid "Protection"
+msgstr "保护"
+
+msgid "Protector"
+msgstr "保护器"
+
+msgid "Protector data"
+msgstr "保护器数据"
+
+msgid "Prototype"
+msgstr "原型"
+
+msgid "Publisher"
+msgstr "出版商"
+
+msgid "Raw data"
+msgstr "原始数据"
+
+msgid "Read error"
+msgstr "读取错误"
+
+msgid "Readonly"
+msgstr "只读"
+
+msgid "Rebase"
+msgstr "变基"
+
+msgid "Recent files"
+msgstr "最近打开文件"
+
+msgid "Recursive"
+msgstr "递归"
+
+msgid "Recursive scan"
+msgstr "递归扫描"
+
+msgid "Ref from"
+msgstr "引用于"
+
+msgid "Ref to"
+msgstr "引用至"
+
+msgid "Region"
+msgstr "区域"
+
+msgid "Regions"
+msgstr "全部区域"
+
+msgid "Register"
+msgstr ""
+
+msgid "Relative address"
+msgstr "相对地址(RA)"
+
+msgid "Relative virtual address"
+msgstr "相对虚拟地址(RVA)"
+
+msgid "Reload"
+msgstr "重新加载"
+
+msgid "Relocs"
+msgstr "重新定位"
+
+msgid "Rescan"
+msgstr "重新扫描"
+
+msgid "Resource"
+msgstr "资源"
+
+msgid "Resources"
+msgstr "资源"
+
+msgid "Restart"
+msgstr "重新开始"
+
+msgid "Result"
+msgstr "结果"
+
+msgid "Run"
+msgstr "运行"
+
+msgid "Runtime driver"
+msgstr "运行时驱动程序"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save as"
+msgstr "保存为"
+
+msgid "Save backup"
+msgstr "保存备份"
+
+msgid "Save diagram"
+msgstr "保存图表"
+
+msgid "Save dump"
+msgstr "保存转储"
+
+msgid "Save file"
+msgstr "保存文件"
+
+msgid "Save history"
+msgstr "保存历史"
+
+msgid "Save last directory"
+msgstr "保存到上次目录"
+
+msgid "Save result"
+msgstr "保存结果"
+
+msgid "Scan"
+msgstr "扫描"
+
+msgid "Scan after open"
+msgstr "打开后扫描"
+
+msgid "Script"
+msgstr "脚本"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Search from"
+msgstr "搜索"
+
+msgid "Search signatures"
+msgstr "搜索签名"
+
+msgid "Search strings"
+msgstr "搜索字符串"
+
+msgid "Section"
+msgstr "节"
+
+msgid "Section name"
+msgstr "节名称"
+
+msgid "Sections"
+msgstr "全部节"
+
+msgid "Segment"
+msgstr "段"
+
+msgid "Segments"
+msgstr "全部段"
+
+msgid "Select"
+msgstr "选择"
+
+msgid "Select all"
+msgstr "全选"
+
+msgid "Selection"
+msgstr "选区"
+
+msgid "Serial number"
+msgstr "序列号"
+
+msgid "Shortcut"
+msgstr "快捷键"
+
+msgid "Shortcuts"
+msgstr "快捷键"
+
+msgid "Show"
+msgstr "显示"
+
+msgid "Show all"
+msgstr "全部显示"
+
+msgid "Show comments"
+msgstr "显示标注"
+
+msgid "Show detects"
+msgstr ""
+
+msgid "Show in"
+msgstr "显示到"
+
+msgid "Show logo"
+msgstr "显示徽标"
+
+msgid "Show options"
+msgstr "显示选项"
+
+msgid "Show type"
+msgstr "显示类型"
+
+msgid "Show valid"
+msgstr "显示有效项"
+
+msgid "Show version"
+msgstr "显示版本"
+
+msgid "Sign tool"
+msgstr "签名工具"
+
+msgid "Signature"
+msgstr "签名"
+
+msgid "Signatures"
+msgstr "全部签名"
+
+msgid "Single application"
+msgstr "单个应用程序"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Size of image"
+msgstr "镜像大小"
+
+msgid "Sort elements"
+msgstr "排序元素"
+
+msgid "Sort type"
+msgstr "排序类型"
+
+msgid "Source"
+msgstr ""
+
+msgid "Source code"
+msgstr "源代码"
+
+msgid "Spaces"
+msgstr "空格"
+
+msgid "Stack"
+msgstr "栈"
+
+msgid "State"
+msgstr ""
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Stay on top"
+msgstr "窗口置顶"
+
+msgid "Step into"
+msgstr "步进"
+
+msgid "Step over"
+msgstr "步出"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "String"
+msgstr "字符串"
+
+msgid "String table"
+msgstr "字符串表"
+
+msgid "Strings"
+msgstr "字符串"
+
+msgid "Struct"
+msgstr "结构体"
+
+msgid "Struct and unions"
+msgstr "结构体和共用体"
+
+msgid "Structs"
+msgstr "结构"
+
+msgid "Stub"
+msgstr ""
+
+msgid "Style"
+msgstr "样式"
+
+msgid "Subdirectories"
+msgstr "子目录"
+
+msgid "Subject"
+msgstr "主题"
+
+msgid "Symbol"
+msgstr "符号"
+
+msgid "Symbol table"
+msgstr "符号表"
+
+msgid "Symbols"
+msgstr "符号"
+
+msgid "Syntax"
+msgstr "句法"
+
+msgid "TB"
+msgstr ""
+
+msgid "Table"
+msgstr "表格"
+
+msgid "Table of contents"
+msgstr "目录"
+
+msgid "Text"
+msgstr "文本"
+
+msgid "Text documents"
+msgstr "文本文档"
+
+msgid "Text files"
+msgstr "文本文件"
+
+msgid "Thanks"
+msgstr "致谢名单"
+
+msgid "The file is not signed"
+msgstr "该文件未被签名"
+
+msgid "The file is signed and the signature was verified"
+msgstr "该文件已被签名并且签名已被验证"
+
+msgid "The signature error"
+msgstr "签名错误"
+
+msgid "The signature is present, but not trusted"
+msgstr "签名存在，但不受信任"
+
+msgid "The signature is present, but specifically disallowed"
+msgstr "签名存在，但已被显式禁用"
+
+msgid "Threads"
+msgstr "线程"
+
+msgid "TiB"
+msgstr ""
+
+msgid "Time"
+msgstr "时间"
+
+msgid "Time date stamp"
+msgstr "时间戳"
+
+msgid "To data"
+msgstr "到数据"
+
+msgid "Toggle"
+msgstr "切换"
+
+msgid "Tool"
+msgstr "工具"
+
+msgid "Tools"
+msgstr "工具集"
+
+msgid "Total"
+msgstr "总计"
+
+msgid "Trace"
+msgstr ""
+
+msgid "Tree"
+msgstr "目录"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Upload the file for analyze?"
+msgstr ""
+
+msgid "Upper"
+msgstr "顶部"
+
+msgid "Uppercase"
+msgstr ""
+
+msgid "User"
+msgstr "用户"
+
+msgid "User mode"
+msgstr "用户模式"
+
+msgid "Value"
+msgstr "值"
+
+msgid "Variable"
+msgstr "变量"
+
+msgid "Verbose"
+msgstr ""
+
+msgid "Version"
+msgstr "版本"
+
+msgid "View"
+msgstr "查看"
+
+msgid "Viewer"
+msgstr "查看器"
+
+msgid "Virtual address"
+msgstr "虚拟地址"
+
+msgid "Virtual machine"
+msgstr "虚拟机"
+
+msgid "Weak binding"
+msgstr "弱绑定"
+
+msgid "Website"
+msgstr "网站"
+
+msgid "Wildcard"
+msgstr "通配符"
+
+msgid "Write error"
+msgstr "写入错误"
+
+msgid "compressor"
+msgstr "压缩工具"
+
+msgid "data"
+msgstr "数据"
+
+msgid "extender"
+msgstr "扩展器"
+
+msgid "kB"
+msgstr ""
+
+msgid "msec"
+msgstr "毫秒"
+
+msgid "not packed"
+msgstr "未加壳"
+
+msgid "obfuscator"
+msgstr "混淆器"
+
+msgid "packed"
+msgstr "已加壳"
+
+msgid "protection"
+msgstr "防护"
